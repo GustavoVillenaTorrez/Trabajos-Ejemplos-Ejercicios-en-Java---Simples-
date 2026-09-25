@@ -1,0 +1,21 @@
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+public class App  {
+
+    public static void main(String[] args) {
+        Set<String> ciudades = new LinkedHashSet<>();
+        ciudades.add("Londres");
+        ciudades.add("Paris");
+        ciudades.add("Nueva York");
+        ciudades.add("San Francisco");
+        ciudades.add("Beijing");
+        ciudades.add("Nueva York");
+        
+        System.out.println(ciudades);
+        
+        for (String s : ciudades) {
+            System.out.println("- " + s.toUpperCase());
+        }
+    }
+}    
