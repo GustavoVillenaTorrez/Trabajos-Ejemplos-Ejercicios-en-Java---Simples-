@@ -13,7 +13,7 @@ A continuación, se detalla el propósito de cada módulo/carpeta del repositori
 * **Diamante:** Resolución del clásico "Problema del Diamante" (herencia múltiple) utilizando el sistema de interfaces de Java.
 * **Inmutable:** Diseño y creación de clases inmutables (ej. uso de `final`, sin métodos *setters*), garantizando la seguridad e integridad de los datos en entornos concurrentes.
 * **Colecciones / ListaPerroProgramador:** Uso intensivo del *Collections Framework* de Java (List, Set, Map) para el almacenamiento dinámico, manipulación y recorrido de conjuntos de objetos.
-* **Persistencia y Base de Datos:** (Incluir aquí la carpeta correspondiente). Ejercicios orientados a la conexión con bases de datos, operaciones CRUD y el guardado persistente de la información generada por las clases.
+* **Persistencia y Base de Datos:** . Ejercicios orientados a la conexión con bases de datos, operaciones CRUD y el guardado persistente de la información generada por las clases.
 
 ## 🛠️ Tecnologías y Conceptos Aplicados
 - Lenguaje: **Java**
